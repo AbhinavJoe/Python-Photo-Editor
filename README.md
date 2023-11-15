@@ -1,4 +1,3 @@
 # Python-Photo-Editor
-A python photo editor that makes use of the pillow module. This is just a basic implementation of the module to do basic photo editing based on the code provided. 
-When the code is run, the photo in the `imgs` folder will be edited and an edited version of the photo will be added to the `editedImgs` folder.
-Feel free to contribute to the repository. I will actively approve pull requests that are meaningful for the repository.
+
+This repository contains a basic Python script for photo editing using the Pillow library. The script applies a series of enhancements, including sharpening, black and white conversion, transformation, rotation, and contrast adjustment, to images in the specified input directory. The edited images are then saved to the output directory. To use the script, ensure you have Python and Pillow installed on your machine. Clone the repository, set the input and output directories in the script, and run it using the `python photoeditor.py` command. Contributions are welcome, and the project is licensed under the MIT License.
